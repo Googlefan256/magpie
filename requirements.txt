@@ -1,0 +1,11 @@
+python-dotenv
+transformers[torch]
+openai
+pydantic
+Jinja2
+bitsandbytes
+trl
+datasets
+git+https://github.com/unslothai/unsloth
+unsloth-zoo
+xformers
